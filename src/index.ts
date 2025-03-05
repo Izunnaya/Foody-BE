@@ -9,6 +9,7 @@ mongoose.connect(process.env.MONGODB_CONNECTION_STRING as string).then(() => {
 })
 
 const app = express();
+app.use(express.json())
 
 // Once a request comes from the frontend through /api/my/user, it'll be forwarded to "MyUserRoute"
 app.use("/api/my/users", MyUserRoute)
