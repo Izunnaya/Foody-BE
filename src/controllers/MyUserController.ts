@@ -30,7 +30,6 @@ const createCurrentUser:RequestHandler = async (req, res, next) => {
     }
 
 }
-
 export default {
     createCurrentUser
 }
