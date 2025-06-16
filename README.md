@@ -11,10 +11,6 @@ Foody is an ongoing full-stack food ordering web application built to deepen my 
 
 ⚙️ Backend with REST APIs using Express
 
-📖 Project documentation ([Notion ]( https://www.notion.so/MERN-Food-Application-Docs-1888e670a18e809890addab0118ce9c4?pvs=4)+ [Google Docs]( https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?usp=sharing ))
-
-
-
 ## ✅ Progress So Far:
 - Server setup completed successfully
 - Authentication endpoint built and fully documented — [View documentation here](https://www.notion.so/MERN-Food-Application-Docs-1888e670a18e809890addab0118ce9c4?pvs=4)
