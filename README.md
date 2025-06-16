@@ -15,12 +15,12 @@ Foody is an ongoing full-stack food ordering web application built to deepen my 
 
 
 
-## Things completed so far: 
-- Server successfully set
-- Built the authentication endpoint, and documented the entire process[ here ](https://www.notion.so/MERN-Food-Application-Docs-1888e670a18e809890addab0118ce9c4?pvs=4)
-- Different files like controllers (to handle specific business logics), middleware, routes, and models have all been created.
-- There are auth & validation middlewares used to protect the user routes and make validations from the frontend, respectively. 
-- CreateUser and UpdateUser endpoint/business logic, including middleware and necessary validations, have been fully completed
+## ✅ Progress So Far:
+- Server setup completed successfully
+- Authentication endpoint built and fully documented — [View documentation here](https://www.notion.so/MERN-Food-Application-Docs-1888e670a18e809890addab0118ce9c4?pvs=4)
+- Project structure set up with controllers (for business logic), middleware, routes, and models
+- Implemented authentication and validation middleware to protect user routes and handle frontend input validation
+- Completed CreateUser and UpdateUser endpoints with full business logic, middleware, and validation
 
 
 ## 🛠 Tech Stack
